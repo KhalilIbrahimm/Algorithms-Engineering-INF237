@@ -23,6 +23,5 @@ Each week introduces a new topic, ranging from fundamental concepts like sorting
 
 Each week's folder contains a `README.md` with links to the relevant Kattis problems.
 
-
 *Author Khalil Ibrahim*
 **Master's student in Machine Learning**
