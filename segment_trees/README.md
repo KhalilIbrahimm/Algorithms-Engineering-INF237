@@ -14,9 +14,6 @@ This week is focused on **range queries and updates** using **segment trees**, s
 - Time complexity:
     - Query: O(log n)
     - Update: O(log n)
-- Space complexity:
-    - Typically $2 * 2^ceil(log₂(n))$ = around $4n$ 
-
 
 ## Problem Overview
 
